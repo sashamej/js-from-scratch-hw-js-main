@@ -7,3 +7,4 @@
 const score = 70 // тестовое значение, можно изменять
 let grade
 // your code
+
